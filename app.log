@@ -1,0 +1,472 @@
+2025-05-16 14:02:55,564 - __main__ - INFO - Loading model...
+2025-05-16 14:02:55,869 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 14:02:56,004 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 14:02:56,384 - __main__ - INFO - Model loaded successfully
+2025-05-16 14:02:56,387 - __main__ - INFO - Starting Flask application...
+2025-05-16 14:02:56,435 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.47:5000
+2025-05-16 14:02:56,436 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 14:02:56,438 - werkzeug - INFO -  * Restarting with stat
+2025-05-16 14:03:03,824 - __main__ - INFO - Loading model...
+2025-05-16 14:03:04,050 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 14:03:04,135 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 14:03:04,483 - __main__ - INFO - Model loaded successfully
+2025-05-16 14:03:04,486 - __main__ - INFO - Starting Flask application...
+2025-05-16 14:03:04,500 - werkzeug - WARNING -  * Debugger is active!
+2025-05-16 14:03:04,542 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-16 14:03:05,044 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:05] "GET / HTTP/1.1" 200 -
+2025-05-16 14:03:05,930 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:05] "GET / HTTP/1.1" 200 -
+2025-05-16 14:03:06,015 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:06] "GET / HTTP/1.1" 200 -
+2025-05-16 14:03:56,081 - __main__ - INFO - Saved uploaded file: uploads\299db52a-e249-42ca-9d45-9393f5a40389_image004.jpg
+2025-05-16 14:03:56,840 - __main__ - INFO - processing time: 0.76s
+2025-05-16 14:03:56,841 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:56] "POST /predict HTTP/1.1" 200 -
+2025-05-16 14:03:57,256 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:57] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 14:03:57,263 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:03:57] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 14:23:00,426 - __main__ - INFO - Loading model...
+2025-05-16 14:23:00,679 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 14:23:00,750 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 14:23:01,161 - __main__ - INFO - Model loaded successfully
+2025-05-16 14:23:01,164 - __main__ - INFO - Starting Flask application...
+2025-05-16 14:23:01,203 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.47:5000
+2025-05-16 14:23:01,204 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 14:23:01,207 - werkzeug - INFO -  * Restarting with stat
+2025-05-16 14:23:08,045 - __main__ - INFO - Loading model...
+2025-05-16 14:23:08,247 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 14:23:08,308 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 14:23:08,624 - __main__ - INFO - Model loaded successfully
+2025-05-16 14:23:08,626 - __main__ - INFO - Starting Flask application...
+2025-05-16 14:23:08,651 - werkzeug - WARNING -  * Debugger is active!
+2025-05-16 14:23:08,661 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-16 14:23:14,140 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:23:14] "GET / HTTP/1.1" 200 -
+2025-05-16 14:23:14,235 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:23:14] "GET / HTTP/1.1" 200 -
+2025-05-16 14:26:51,406 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:26:51] "GET / HTTP/1.1" 200 -
+2025-05-16 14:26:51,455 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:26:51] "GET / HTTP/1.1" 200 -
+2025-05-16 14:27:05,094 - __main__ - INFO - Saved uploaded file: uploads\a3d40021-2952-4e3f-aed0-129235ac1a3e_image017.jpg
+2025-05-16 14:27:05,902 - __main__ - INFO - processing time: 0.81s
+2025-05-16 14:27:05,903 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:27:05] "POST /predict HTTP/1.1" 200 -
+2025-05-16 14:27:06,348 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 14:27:06] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 15:02:05,106 - __main__ - INFO - Saved uploaded file: uploads\8efb9acb-13e1-46e6-9825-453933396444_image013.jpg
+2025-05-16 15:02:05,284 - __main__ - INFO - processing time: 0.18s
+2025-05-16 15:02:05,285 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 15:02:05] "POST /predict HTTP/1.1" 200 -
+2025-05-16 15:02:14,299 - __main__ - INFO - Saved uploaded file: uploads\51e475ae-baba-4428-9598-f69ebeb12c4b_image013.jpg
+2025-05-16 15:02:14,425 - __main__ - INFO - processing time: 0.12s
+2025-05-16 15:02:14,426 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 15:02:14] "POST /predict HTTP/1.1" 200 -
+2025-05-16 20:16:05,216 - __main__ - INFO - Loading model...
+2025-05-16 20:16:05,718 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 20:16:05,802 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 20:16:06,105 - __main__ - INFO - Model loaded successfully
+2025-05-16 20:16:06,107 - __main__ - INFO - Starting Flask application...
+2025-05-16 20:16:06,167 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.47:5000
+2025-05-16 20:16:06,168 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-16 20:16:06,170 - werkzeug - INFO -  * Restarting with stat
+2025-05-16 20:16:12,982 - __main__ - INFO - Loading model...
+2025-05-16 20:16:13,206 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-16 20:16:13,282 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-16 20:16:13,610 - __main__ - INFO - Model loaded successfully
+2025-05-16 20:16:13,617 - __main__ - INFO - Starting Flask application...
+2025-05-16 20:16:13,631 - werkzeug - WARNING -  * Debugger is active!
+2025-05-16 20:16:13,638 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-16 20:16:13,991 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:16:13] "GET / HTTP/1.1" 200 -
+2025-05-16 20:16:14,076 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:16:14] "GET / HTTP/1.1" 200 -
+2025-05-16 20:16:14,154 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:16:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-16 20:21:54,050 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:21:54] "GET / HTTP/1.1" 200 -
+2025-05-16 20:21:54,103 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:21:54] "GET / HTTP/1.1" 200 -
+2025-05-16 20:22:11,455 - __main__ - INFO - Saved uploaded file: uploads\bbe92a2a-1b55-41fc-8bac-12789e5da596_image009.jpg
+2025-05-16 20:22:12,285 - __main__ - INFO - processing time: 0.83s
+2025-05-16 20:22:12,285 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:22:12] "POST /predict HTTP/1.1" 200 -
+2025-05-16 20:23:04,420 - __main__ - INFO - Saved uploaded file: uploads\a74a07c1-b432-4ade-8694-2c648c549923_image008.jpg
+2025-05-16 20:23:04,577 - __main__ - INFO - processing time: 0.15s
+2025-05-16 20:23:04,577 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:04] "POST /predict HTTP/1.1" 200 -
+2025-05-16 20:23:04,921 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:04] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 20:23:04,926 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:04] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 20:23:33,220 - __main__ - INFO - Saved uploaded file: uploads\a3673c5a-73d9-431f-8dd6-389ef2c1eb89_image010.jpg
+2025-05-16 20:23:33,405 - __main__ - INFO - processing time: 0.18s
+2025-05-16 20:23:33,406 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:33] "POST /predict HTTP/1.1" 200 -
+2025-05-16 20:23:33,440 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:33] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 20:23:33,446 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:23:33] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 20:26:35,181 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:26:35] "GET / HTTP/1.1" 200 -
+2025-05-16 20:26:35,235 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:26:35] "GET / HTTP/1.1" 200 -
+2025-05-16 20:26:58,071 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:26:58] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-16 20:27:29,222 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:27:29] "GET / HTTP/1.1" 200 -
+2025-05-16 20:27:29,265 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:27:29] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-16 20:27:29,299 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:27:29] "GET / HTTP/1.1" 200 -
+2025-05-16 20:31:23,846 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:31:23] "GET / HTTP/1.1" 200 -
+2025-05-16 20:31:23,898 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 20:31:23] "GET / HTTP/1.1" 200 -
+2025-05-16 21:47:06,136 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:47:06] "GET / HTTP/1.1" 200 -
+2025-05-16 21:47:06,204 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:47:06] "GET / HTTP/1.1" 200 -
+2025-05-16 21:47:29,527 - __main__ - INFO - Saved uploaded file: uploads\c7eeeeea-da28-4852-bbc7-9c6f535fb090_image018.jpg
+2025-05-16 21:47:30,400 - __main__ - INFO - processing time: 0.87s
+2025-05-16 21:47:30,404 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:47:30] "POST /predict HTTP/1.1" 200 -
+2025-05-16 21:47:50,561 - __main__ - INFO - Saved uploaded file: uploads\aeaedc29-255d-4e56-97ed-067ede2beb7b_image003.jpg
+2025-05-16 21:47:50,753 - __main__ - INFO - processing time: 0.19s
+2025-05-16 21:47:50,754 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:47:50] "POST /predict HTTP/1.1" 200 -
+2025-05-16 21:47:50,779 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:47:50] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-16 21:48:23,393 - __main__ - INFO - Saved uploaded file: uploads\5a14dd6e-26e1-4635-9a79-1b6e796930e5_image059.jpg
+2025-05-16 21:48:23,557 - __main__ - INFO - processing time: 0.16s
+2025-05-16 21:48:23,558 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:48:23] "POST /predict HTTP/1.1" 200 -
+2025-05-16 21:48:23,578 - werkzeug - INFO - 127.0.0.1 - - [16/May/2025 21:48:23] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 09:44:01,102 - __main__ - INFO - Loading model...
+2025-05-17 09:44:01,528 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-17 09:44:01,629 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-17 09:44:01,968 - __main__ - INFO - Model loaded successfully
+2025-05-17 09:44:01,968 - __main__ - INFO - Starting Flask application...
+2025-05-17 09:44:02,038 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-05-17 09:44:02,038 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-17 09:44:02,038 - werkzeug - INFO -  * Restarting with stat
+2025-05-17 09:44:08,114 - __main__ - INFO - Loading model...
+2025-05-17 09:44:08,289 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-17 09:44:08,344 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-17 09:44:08,630 - __main__ - INFO - Model loaded successfully
+2025-05-17 09:44:08,630 - __main__ - INFO - Starting Flask application...
+2025-05-17 09:44:08,647 - werkzeug - WARNING -  * Debugger is active!
+2025-05-17 09:44:08,680 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-17 09:44:50,362 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:44:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-17 09:44:53,719 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:44:53] "GET / HTTP/1.1" 200 -
+2025-05-17 09:44:53,789 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:44:53] "GET / HTTP/1.1" 200 -
+2025-05-17 09:45:40,666 - __main__ - INFO - Saved uploaded file: uploads\fe2d142b-44dc-43f1-a30a-90326aad9409_image006.jpg
+2025-05-17 09:45:41,461 - __main__ - INFO - processing time: 0.79s
+2025-05-17 09:45:41,462 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:45:41] "POST /predict HTTP/1.1" 200 -
+2025-05-17 09:45:41,748 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:45:41] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 09:45:41,752 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:45:41] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 09:46:37,784 - __main__ - INFO - Saved uploaded file: uploads\8a8ef2f6-0c06-4d89-866f-7e2024a04d3f_image004.jpg
+2025-05-17 09:46:37,966 - __main__ - INFO - processing time: 0.18s
+2025-05-17 09:46:37,966 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:46:37] "POST /predict HTTP/1.1" 200 -
+2025-05-17 09:46:37,994 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:46:37] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 09:46:37,999 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:46:37] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 09:47:01,187 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:47:01] "GET / HTTP/1.1" 200 -
+2025-05-17 09:47:01,241 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:47:01] "GET / HTTP/1.1" 200 -
+2025-05-17 09:59:36,817 - __main__ - INFO - Saved uploaded file: uploads\30a1450f-761e-426f-98da-173128823aad_image013.jpg
+2025-05-17 09:59:36,949 - __main__ - INFO - processing time: 0.13s
+2025-05-17 09:59:36,949 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 09:59:36] "POST /predict HTTP/1.1" 200 -
+2025-05-17 10:01:39,857 - __main__ - INFO - Saved uploaded file: uploads\96edea16-af3b-4255-85fd-11362e5ca7a7_image004.jpg
+2025-05-17 10:01:40,032 - __main__ - INFO - processing time: 0.17s
+2025-05-17 10:01:40,033 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 10:01:40] "POST /predict HTTP/1.1" 200 -
+2025-05-17 10:01:40,045 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 10:01:40] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-17 10:03:16,934 - __main__ - INFO - Saved uploaded file: uploads\a3f70a57-be78-4eb8-bab1-9b41ba421ca0_image004.jpg
+2025-05-17 10:03:17,109 - __main__ - INFO - processing time: 0.17s
+2025-05-17 10:03:17,110 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 10:03:17] "POST /predict HTTP/1.1" 200 -
+2025-05-17 10:03:17,124 - werkzeug - INFO - 127.0.0.1 - - [17/May/2025 10:03:17] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 08:57:30,982 - __main__ - INFO - Loading model...
+2025-05-29 08:57:31,437 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 08:57:31,541 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 08:57:31,884 - __main__ - INFO - Model loaded successfully
+2025-05-29 08:57:31,887 - __main__ - INFO - Starting Flask application...
+2025-05-29 08:57:31,958 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.46:5000
+2025-05-29 08:57:31,958 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 08:57:31,962 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 08:57:38,658 - __main__ - INFO - Loading model...
+2025-05-29 08:57:38,864 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 08:57:38,932 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 08:57:39,251 - __main__ - INFO - Model loaded successfully
+2025-05-29 08:57:39,254 - __main__ - INFO - Starting Flask application...
+2025-05-29 08:57:39,265 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 08:57:39,312 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 08:57:56,734 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 08:57:56] "GET / HTTP/1.1" 200 -
+2025-05-29 08:57:57,373 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 08:57:57] "GET / HTTP/1.1" 200 -
+2025-05-29 08:57:57,735 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 08:57:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 08:58:28,225 - __main__ - INFO - Saved uploaded file: uploads\5f29745f-bbe0-418e-adb7-4e482be77d3b_image002.jpg
+2025-05-29 08:58:29,319 - __main__ - INFO - processing time: 1.09s
+2025-05-29 08:58:29,321 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 08:58:29] "POST /predict HTTP/1.1" 200 -
+2025-05-29 08:58:29,748 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 08:58:29] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 10:49:30,824 - __main__ - INFO - Loading model...
+2025-05-29 10:49:31,356 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 10:49:31,433 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 10:49:31,815 - __main__ - INFO - Model loaded successfully
+2025-05-29 10:49:31,818 - __main__ - INFO - Starting Flask application...
+2025-05-29 10:49:31,876 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.65:5000
+2025-05-29 10:49:31,876 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 10:49:31,879 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 10:49:38,045 - __main__ - INFO - Loading model...
+2025-05-29 10:49:38,232 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 10:49:38,297 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 10:49:38,582 - __main__ - INFO - Model loaded successfully
+2025-05-29 10:49:38,584 - __main__ - INFO - Starting Flask application...
+2025-05-29 10:49:38,596 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 10:49:38,632 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 10:49:49,370 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:49:49] "GET / HTTP/1.1" 200 -
+2025-05-29 10:49:50,162 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:49:50] "GET / HTTP/1.1" 200 -
+2025-05-29 10:49:50,479 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:49:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 10:50:07,282 - __main__ - INFO - Saved uploaded file: uploads\7396465d-95a9-4fad-83ec-72249bc12ef1_image028.jpg
+2025-05-29 10:50:08,019 - __main__ - INFO - processing time: 0.73s
+2025-05-29 10:50:08,019 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:08] "POST /predict HTTP/1.1" 200 -
+2025-05-29 10:50:28,894 - __main__ - INFO - Saved uploaded file: uploads\2b453af4-fc89-4aff-9f01-937f0f223670_image017.jpg
+2025-05-29 10:50:29,064 - __main__ - INFO - processing time: 0.16s
+2025-05-29 10:50:29,064 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:29] "POST /predict HTTP/1.1" 200 -
+2025-05-29 10:50:29,419 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:29] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 10:50:29,424 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:29] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 10:50:56,947 - __main__ - INFO - Saved uploaded file: uploads\b051bcfa-8477-4f60-aecd-e1f7e34458fc_image002.jpg
+2025-05-29 10:50:57,068 - __main__ - INFO - processing time: 0.12s
+2025-05-29 10:50:57,069 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:57] "POST /predict HTTP/1.1" 200 -
+2025-05-29 10:50:57,132 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 10:50:57] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:17:01,110 - __main__ - INFO - Saved uploaded file: uploads\bfec9249-5529-41c8-9670-433df8fc47f3_image009.jpg
+2025-05-29 11:17:01,637 - __main__ - INFO - processing time: 0.52s
+2025-05-29 11:17:01,638 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:17:01] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:17:01,654 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:17:01] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:17:16,759 - __main__ - INFO - Saved uploaded file: uploads\b9a3b958-4016-49f2-a0e9-54a37adc4f11_image009.jpg
+2025-05-29 11:17:16,888 - __main__ - INFO - processing time: 0.13s
+2025-05-29 11:17:16,889 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:17:16] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:17:52,461 - __main__ - INFO - Saved uploaded file: uploads\82537dbd-aeea-4eab-9ed9-fb40b259c723_image014.jpg
+2025-05-29 11:17:52,583 - __main__ - INFO - processing time: 0.12s
+2025-05-29 11:17:52,584 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:17:52] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:18:49,035 - __main__ - INFO - Saved uploaded file: uploads\1aae8266-9b2f-4f2a-9ecf-ac2f4bcf164b_image337.jpg
+2025-05-29 11:18:49,210 - __main__ - INFO - processing time: 0.17s
+2025-05-29 11:18:49,211 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:18:49] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:18:49,222 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:18:49] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:18:49,226 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:18:49] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:20:04,769 - __main__ - INFO - Saved uploaded file: uploads\1233f0c0-51b7-4461-9bdf-4819a7bbc0de_image377.jpg
+2025-05-29 11:20:04,899 - __main__ - INFO - processing time: 0.13s
+2025-05-29 11:20:04,899 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:20:04] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:20:04,910 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:20:04] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:21:01,489 - __main__ - INFO - Saved uploaded file: uploads\afc48bfc-280a-433e-9c66-63bcf2a16565_image014.jpg
+2025-05-29 11:21:01,682 - __main__ - INFO - processing time: 0.19s
+2025-05-29 11:21:01,683 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:21:01] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:21:25,388 - __main__ - INFO - Saved uploaded file: uploads\42414ad9-839f-4eca-a2d4-15eb672c2b4f_image073.jpg
+2025-05-29 11:21:25,540 - __main__ - INFO - processing time: 0.15s
+2025-05-29 11:21:25,541 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:21:25] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:21:59,228 - __main__ - INFO - Saved uploaded file: uploads\6c92a796-b517-4ade-b295-69a697c843c4_image006.jpg
+2025-05-29 11:21:59,381 - __main__ - INFO - processing time: 0.15s
+2025-05-29 11:21:59,382 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:21:59] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:21:59,394 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:21:59] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:21:59,399 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:21:59] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:22:30,344 - __main__ - INFO - Saved uploaded file: uploads\c816b161-b267-4db8-a892-2b4944ba8d4b_image095.jpg
+2025-05-29 11:22:30,465 - __main__ - INFO - processing time: 0.12s
+2025-05-29 11:22:30,466 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:22:30] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:22:30,477 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:22:30] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:27:02,338 - __main__ - INFO - Saved uploaded file: uploads\efc6d09c-4d6c-41d9-88d7-4e69f8e298ef_image009.jpg
+2025-05-29 11:27:02,498 - __main__ - INFO - processing time: 0.16s
+2025-05-29 11:27:02,498 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:27:02] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:27:19,553 - __main__ - INFO - Saved uploaded file: uploads\b761a53f-33f1-46de-901a-2b52b42795c9_image025.jpg
+2025-05-29 11:27:19,706 - __main__ - INFO - processing time: 0.15s
+2025-05-29 11:27:19,708 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:27:19] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:27:19,723 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:27:19] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:27:19,779 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:27:19] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:34:54,001 - __main__ - INFO - Loading model...
+2025-05-29 11:34:54,315 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 11:34:54,391 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 11:34:54,747 - __main__ - INFO - Model loaded successfully
+2025-05-29 11:34:54,749 - __main__ - INFO - Starting Flask application...
+2025-05-29 11:34:54,796 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.65:5000
+2025-05-29 11:34:54,796 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 11:34:54,799 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 11:35:00,962 - __main__ - INFO - Loading model...
+2025-05-29 11:35:01,159 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 11:35:01,243 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 11:35:01,557 - __main__ - INFO - Model loaded successfully
+2025-05-29 11:35:01,559 - __main__ - INFO - Starting Flask application...
+2025-05-29 11:35:01,571 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 11:35:01,608 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 11:35:07,049 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:35:07] "GET / HTTP/1.1" 200 -
+2025-05-29 11:35:07,140 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:35:07] "GET / HTTP/1.1" 200 -
+2025-05-29 11:35:27,883 - __main__ - INFO - Saved uploaded file: uploads\735d3af2-bed9-4701-b9c9-ac27a9927c1d_image002.jpg
+2025-05-29 11:35:28,699 - __main__ - INFO - processing time: 0.82s
+2025-05-29 11:35:28,721 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:35:28] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:35:29,037 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:35:29] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:35:29,045 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:35:29] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:44:26,349 - __main__ - INFO - Saved uploaded file: uploads\8d4c62e2-93a4-4141-82f2-864444deae97_image013.jpg
+2025-05-29 11:44:26,633 - __main__ - INFO - processing time: 0.28s
+2025-05-29 11:44:26,636 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:44:26] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:44:31,686 - __main__ - INFO - Saved uploaded file: uploads\b00d886c-e990-4cb5-b411-ffb97296b90a_image013.jpg
+2025-05-29 11:44:31,855 - __main__ - INFO - processing time: 0.17s
+2025-05-29 11:44:31,855 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:44:31] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:47:55,237 - __main__ - INFO - Loading model...
+2025-05-29 11:47:55,731 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 11:47:55,828 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 11:47:56,119 - __main__ - INFO - Model loaded successfully
+2025-05-29 11:47:56,121 - __main__ - INFO - Starting Flask application...
+2025-05-29 11:47:56,180 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.11.65:5000
+2025-05-29 11:47:56,180 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 11:47:56,182 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 11:48:03,091 - __main__ - INFO - Loading model...
+2025-05-29 11:48:03,338 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 11:48:03,409 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 11:48:03,706 - __main__ - INFO - Model loaded successfully
+2025-05-29 11:48:03,709 - __main__ - INFO - Starting Flask application...
+2025-05-29 11:48:03,722 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 11:48:03,728 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 11:48:10,307 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:48:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 11:48:16,043 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:48:16] "GET / HTTP/1.1" 200 -
+2025-05-29 11:48:16,139 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:48:16] "GET / HTTP/1.1" 200 -
+2025-05-29 11:48:26,140 - __main__ - INFO - Saved uploaded file: uploads\b0ab5a68-a2f0-4981-a8d2-09ebc5be9716_image014.jpg
+2025-05-29 11:48:27,016 - __main__ - INFO - processing time: 0.88s
+2025-05-29 11:48:27,017 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:48:27] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:50:37,583 - __main__ - INFO - Saved uploaded file: uploads\5399a70d-0aca-4e40-bf66-0c66a1a9d7a7_image014.jpg
+2025-05-29 11:50:37,753 - __main__ - INFO - processing time: 0.17s
+2025-05-29 11:50:37,754 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:50:37] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:50:55,269 - __main__ - INFO - Saved uploaded file: uploads\79ec55b2-b83c-4da0-9cb6-c9ec00c24e65_image007.jpg
+2025-05-29 11:50:55,422 - __main__ - INFO - processing time: 0.15s
+2025-05-29 11:50:55,423 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:50:55] "POST /predict HTTP/1.1" 200 -
+2025-05-29 11:50:55,731 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:50:55] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 11:50:55,736 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 11:50:55] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 15:26:19,079 - __main__ - INFO - Loading model...
+2025-05-29 15:26:19,576 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:26:19,684 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:26:20,088 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:26:20,091 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:26:20,155 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.46:5000
+2025-05-29 15:26:20,156 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 15:26:20,158 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 15:26:27,760 - __main__ - INFO - Loading model...
+2025-05-29 15:26:28,012 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:26:28,080 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:26:28,419 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:26:28,422 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:26:28,437 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 15:26:28,441 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 15:26:29,099 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:26:29] "GET / HTTP/1.1" 200 -
+2025-05-29 15:26:29,190 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:26:29] "GET / HTTP/1.1" 200 -
+2025-05-29 15:26:29,361 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:26:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-29 15:30:35,733 - __main__ - INFO - Loading model...
+2025-05-29 15:30:35,988 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:30:36,070 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:30:36,393 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:30:36,398 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:30:36,433 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.46:5000
+2025-05-29 15:30:36,433 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 15:30:36,436 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 15:30:44,725 - __main__ - INFO - Loading model...
+2025-05-29 15:30:45,036 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:30:45,120 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:30:45,484 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:30:45,488 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:30:45,504 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 15:30:45,510 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 15:30:46,081 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:30:46] "GET / HTTP/1.1" 200 -
+2025-05-29 15:30:46,156 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:30:46] "GET / HTTP/1.1" 200 -
+2025-05-29 15:31:03,178 - __main__ - INFO - Saved uploaded file: uploads\d77cd2f9-5729-4a51-a783-c6dab936ccad_image003.jpg
+2025-05-29 15:31:04,205 - __main__ - INFO - processing time: 1.03s
+2025-05-29 15:31:04,206 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:31:04] "POST /predict HTTP/1.1" 200 -
+2025-05-29 15:31:04,757 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:31:04] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 15:31:57,059 - __main__ - INFO - Loading model...
+2025-05-29 15:31:57,348 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:31:57,422 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:31:57,769 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:31:57,772 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:31:57,812 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.46:5000
+2025-05-29 15:31:57,813 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 15:31:57,816 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 15:32:05,952 - __main__ - INFO - Loading model...
+2025-05-29 15:32:06,237 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:32:06,320 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:32:06,721 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:32:06,724 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:32:06,741 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 15:32:06,750 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 15:32:07,314 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:07] "GET / HTTP/1.1" 200 -
+2025-05-29 15:32:07,393 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:07] "GET / HTTP/1.1" 200 -
+2025-05-29 15:32:13,617 - __main__ - INFO - Saved uploaded file: uploads\da161bd1-847e-4f52-8401-bf2b6b8497cc_image002.jpg
+2025-05-29 15:32:14,228 - __main__ - INFO - processing time: 0.61s
+2025-05-29 15:32:14,229 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:14] "POST /predict HTTP/1.1" 200 -
+2025-05-29 15:32:14,744 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:14] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 15:32:14,750 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:14] "[35m[1mGET /static/music/mental_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 15:32:34,395 - __main__ - INFO - Saved uploaded file: uploads\69c09da2-50ea-4fc2-af96-eb8f8ba5be1f_image026.jpg
+2025-05-29 15:32:34,597 - __main__ - INFO - processing time: 0.2s
+2025-05-29 15:32:34,598 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:34] "POST /predict HTTP/1.1" 200 -
+2025-05-29 15:32:46,385 - __main__ - INFO - Saved uploaded file: uploads\4ac5f80e-1fb8-4cf7-b437-dff13051d42e_image017.jpg
+2025-05-29 15:32:46,551 - __main__ - INFO - processing time: 0.17s
+2025-05-29 15:32:46,552 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:46] "POST /predict HTTP/1.1" 200 -
+2025-05-29 15:32:46,587 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:32:46] "[35m[1mGET /static/music/physical_stress.mp3 HTTP/1.1[0m" 206 -
+2025-05-29 15:36:25,901 - __main__ - INFO - Loading model...
+2025-05-29 15:36:26,189 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:36:26,252 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:36:26,564 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:36:26,566 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:36:26,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.46:5000
+2025-05-29 15:36:26,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-29 15:36:26,602 - werkzeug - INFO -  * Restarting with stat
+2025-05-29 15:36:34,665 - __main__ - INFO - Loading model...
+2025-05-29 15:36:34,978 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-05-29 15:36:35,054 - tensorflow - WARNING - From C:\Users\hemu5\OneDrive\Documents\ecg_classification\.venv\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2025-05-29 15:36:35,441 - __main__ - INFO - Model loaded successfully
+2025-05-29 15:36:35,444 - __main__ - INFO - Starting Flask application...
+2025-05-29 15:36:35,460 - werkzeug - WARNING -  * Debugger is active!
+2025-05-29 15:36:35,466 - werkzeug - INFO -  * Debugger PIN: 302-046-894
+2025-05-29 15:36:36,113 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:36:36] "GET / HTTP/1.1" 200 -
+2025-05-29 15:36:36,193 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:36:36] "GET / HTTP/1.1" 200 -
+2025-05-29 15:36:42,789 - __main__ - INFO - Saved uploaded file: uploads\9fc370b8-c003-499d-a0dc-9ab790d8c30c_image004.jpg
+2025-05-29 15:36:43,435 - __main__ - INFO - processing time: 0.64s
+2025-05-29 15:36:43,436 - werkzeug - INFO - 127.0.0.1 - - [29/May/2025 15:36:43] "POST /predict HTTP/1.1" 200 -
+2025-05-29 15:36:55,175 - werkzeug - INFO -  * Detected change in 'C:\\Users\\hemu5\\OneDrive\\Documents\\ecg_classification\\app.py', reloading
+2025-05-29 15:36:55,701 - werkzeug - INFO -  * Restarting with stat
